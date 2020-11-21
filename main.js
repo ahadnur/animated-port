@@ -55,4 +55,6 @@ sr.reveal('.skills__img', {delay: 200});
 sr.reveal('.work__img', {interval: 200});
 
 // Scroll Contact
-sr.reveal('.contact__input', {interval: 200});
+sr.reveal('.mail__c', {interval: 200});
+sr.reveal('.mobile', {delay: 300});
+sr.reveal('.fiverr', {delay: 400});
