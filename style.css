@@ -343,15 +343,22 @@ img{
     padding: 10px 0;
     margin-top: 30px;
 }
-.fiverr{
+.hire{
     margin-top: 30px;
+    font-size: 25px;
+    font-weight: bold;
 }
 .f__btn{
-    color: white;
-    background: var(--first-color);
-    padding: 5px 20px;
     margin-left: 20px;
-    border-radius: 50px;
+}
+.f__btn.up svg{
+    background-color: #1d4354;
+}
+.market{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
 }
 
 /* Footer */
